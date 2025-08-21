@@ -8,5 +8,5 @@ RFM analysis (Recency, Frequency, Monetary): Identify loyal vs. at-risk customer
 Geographical patterns: Which regions generate the most revenue?\
 Seasonal trends: Identify peak purchase periods per customer segment.
 
-[Kaggle Link: Online Retail Customer Segmentation Project] (https://www.kaggle.com/datasets/lxnmobill/online-retail-customer-segmentation-project?select=retail_cleaned.csv)
+[Kaggle Link: Online Retail Customer Segmentation Project](https://www.kaggle.com/datasets/lxnmobill/online-retail-customer-segmentation-project?select=retail_cleaned.csv)
 
