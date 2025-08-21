@@ -1,12 +1,12 @@
-**Mini-Project---SQL-Customer-Segmentation-Week-7**
+**Mini-Project---SQL-Customer-Segmentation-Week-7**\
 
-## Online Retail Customer Segmentation Project: Objective: Learn about Customer Segmentation. Practice SQL joins, aggregations, CTEs, window functions, and stored procedures in a realistic business context.
+## Online Retail Customer Segmentation Project: Objective: Learn about Customer Segmentation. Practice SQL joins, aggregations, CTEs, window functions, and stored procedures in a realistic business context.\
 
-Insights / Business Questions to explore:
+Insights / Business Questions to explore:\
 
-RFM analysis (Recency, Frequency, Monetary): Identify loyal vs. at-risk customers.
-Geographical patterns: Which regions generate the most revenue?
-Seasonal trends: Identify peak purchase periods per customer segment.
+RFM analysis (Recency, Frequency, Monetary): Identify loyal vs. at-risk customers.\
+Geographical patterns: Which regions generate the most revenue?\
+Seasonal trends: Identify peak purchase periods per customer segment.\
 
 [Kaggle Link: Online Retail Customer Segmentation Project] (https://www.kaggle.com/datasets/lxnmobill/online-retail-customer-segmentation-project?select=retail_cleaned.csv)
 
