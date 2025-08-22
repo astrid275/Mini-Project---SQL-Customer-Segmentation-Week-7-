@@ -14,3 +14,5 @@ Identify loyal vs. at-risk customers.
 
 [Kaggle Link: Online Retail Customer Segmentation Project](https://www.kaggle.com/datasets/lxnmobill/online-retail-customer-segmentation-project?select=retail_cleaned.csv)
 
+Link to Final Presentation [Here] (https://www.canva.com/design/DAGwvlPfs0k/0uHxqovL1BCbI0LjIQ8hiw/edit?utm_content=DAGwvlPfs0k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
