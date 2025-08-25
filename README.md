@@ -1,6 +1,6 @@
 **Mini-Project---SQL-Customer-Segmentation-Week-7**
 
-****Online Retail Customer Segmentation Project:**
+**Online Retail Customer Segmentation Project:**
 
 **Objective: Learn about Customer Segmentation. Practice SQL joins, aggregations, CTEs, window functions, and stored procedures in a realistic business context.** 
 
